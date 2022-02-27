@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DrumHero.unity
+    guid: dee5b0ab4fc636048b3119f4c1fe905a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2b527f109fba1c644900d3a2d241cb1f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 60c2f4726bed645409e8169980c75547, type: 2}
