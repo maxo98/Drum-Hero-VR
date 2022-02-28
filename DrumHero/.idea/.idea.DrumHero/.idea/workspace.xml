@@ -20,15 +20,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b792723-13e2-40fa-88c0-d20326e9a09e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Drum_HP_Sub.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Drum_HP_Sub.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/Basepasted__lambert12.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/Basepasted__lambert12.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/zildjian-i-family-18-crash-ride.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/zildjian-i-family-18-crash-ride.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/615+jicCK4L._AC_SL1200_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/615+jicCK4L._AC_SL1200_.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Ambientpasted__lambert12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Ambientpasted__lambert12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Basepasted__lambert12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Basepasted__lambert12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Metalpasted__lambert12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Metalpasted__lambert12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Normalpasted__lambert12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Normalpasted__lambert12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Roughnespasted__lambert12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Roughnespasted__lambert12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-fell-sc1-20-coated-white-sound-control-o-logo_1_DRU0026466-000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-fell-sc1-20-coated-white-sound-control-o-logo_1_DRU0026466-000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-frontfell-20-ebony-m-logo_1_DRU0016954-000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-frontfell-20-ebony-m-logo_1_DRU0016954-000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/internal_ground_ao_texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/internal_ground_ao_texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/remo-encore-6-pinstripe-clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/remo-encore-6-pinstripe-clear.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/zildjian-i-family-18-crash-ride.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/zildjian-i-family-18-crash-ride.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drumstick.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets/drumstick.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/DrumHero.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DrumHero.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SoundPlayer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +74,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/TrackStickSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HitAnimationController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SoundPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicManager.cs" />
       </list>
     </option>
   </component>
@@ -56,6 +87,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -91,6 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645985631062</updated>
       <workItem from="1645985649207" duration="3699000" />
+      <workItem from="1646073411155" duration="10672000" />
     </task>
     <servers />
   </component>
@@ -109,6 +142,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

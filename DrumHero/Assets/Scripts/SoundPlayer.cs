@@ -10,7 +10,9 @@ public class SoundPlayer : MonoBehaviour
     private AudioSource source;
 
     [SerializeField] 
-    private bool playOnButton = false;
+    public bool playOnButton;
+
+    public bool playSounds = true;
     
     private readonly Random _rand = new Random();
     private void Update()
@@ -29,7 +31,7 @@ public class SoundPlayer : MonoBehaviour
 
     private void ActivateSound()
     {
-        
+        if (!playSounds) return;
         source.pitch = (float) _rand.Next(9, 11) / 10;
         source.Play();
     }
