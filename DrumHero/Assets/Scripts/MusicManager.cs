@@ -37,20 +37,13 @@ public class MusicManager : MonoBehaviour
         if (!OVRInput.GetDown(OVRInput.RawButton.Start)) return;
         if (!_playing)
         {
-            midiFilePlayer.MPTK_MidiIndex = 69;
+            midiFilePlayer.MPTK_MidiIndex = 44;
             midiFilePlayer.MPTK_Play();
             _playing = true;
             foreach (var soundPlayer in soundPlayers)
             {
                 soundPlayer.playSounds = false;
             }
-
-            if (!_playing) return;
-            foreach (var t in indicators.Where(t => t.GetBool(StartAnime)))
-            {
-                t.SetBool(StartAnime, false);
-            }
-            
         }
         else
         {
@@ -62,27 +55,27 @@ public class MusicManager : MonoBehaviour
     {
         foreach (var mptkEvent in notesEvent.Where(mptkEvent => mptkEvent.Channel == 9))
         {
-            Debug.Log($"Note on Time:{mptkEvent.RealTime} millisecond  Note:{mptkEvent.Value}  Duration:{mptkEvent.Duration} millisecond  Velocity:{mptkEvent.Velocity}");
+            //Debug.Log($"Note on Time:{mptkEvent.RealTime} millisecond  Note:{mptkEvent.Value}  Duration:{mptkEvent.Duration} millisecond  Velocity:{mptkEvent.Velocity}");
             switch (mptkEvent.Value)
             {
-                case 035:
-                    indicators[6].SetBool(StartAnime, true);
-                    
+                case 35:
+                    indicators[6].Play("KickIndicator");
                     break;
                 case 38:
-                    indicators[0].SetBool(StartAnime, true);
+                case 40:
+                    indicators[0].Play("SnareIndicator");
                     
                     break;
                 case 44:
                 case 46:
-                    indicators[2].SetBool(StartAnime, true);
+                    indicators[2].Play("HiHatIndicator");
                     break;
+                case 49:
                 case 57:
-                    indicators[3].SetBool(StartAnime, true); 
-                    
+                    indicators[3].Play("CrashIndicator");
                     break;
                 case 60:
-                    indicators[4].SetBool(StartAnime, true);
+                    indicators[4].Play("Tom1Indicator");
                     break;
             }
         }

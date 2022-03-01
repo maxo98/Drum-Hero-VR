@@ -20,44 +20,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b792723-13e2-40fa-88c0-d20326e9a09e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DrumHero/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Drum_HP_Sub.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Drum_HP_Sub.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/Basepasted__lambert12.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/Basepasted__lambert12.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/zildjian-i-family-18-crash-ride.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Materials/zildjian-i-family-18-crash-ride.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/615+jicCK4L._AC_SL1200_.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/615+jicCK4L._AC_SL1200_.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Ambientpasted__lambert12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Ambientpasted__lambert12.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Basepasted__lambert12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Basepasted__lambert12.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Metalpasted__lambert12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Metalpasted__lambert12.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Normalpasted__lambert12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Normalpasted__lambert12.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Roughnespasted__lambert12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/Roughnespasted__lambert12.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-fell-sc1-20-coated-white-sound-control-o-logo_1_DRU0026466-000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-fell-sc1-20-coated-white-sound-control-o-logo_1_DRU0026466-000.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-frontfell-20-ebony-m-logo_1_DRU0016954-000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/fame-bassdrum-frontfell-20-ebony-m-logo_1_DRU0016954-000.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/internal_ground_ao_texture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/internal_ground_ao_texture.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/remo-encore-6-pinstripe-clear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/remo-encore-6-pinstripe-clear.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/zildjian-i-family-18-crash-ride.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drums_high-poly/Textures/zildjian-i-family-18-crash-ride.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drumstick.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Assets/drumstick.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Crash.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Crash.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CrashIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CrashIdle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CrashIndicator.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CrashIndicator.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/HiHat.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/HiHat.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/HiHatIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/HiHatIdle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/HiHatIndicator.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/HiHatIndicator.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Kick.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Kick.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/KickIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/KickIdle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/KickIndicator.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/KickIndicator.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Snare.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Snare.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/SnareIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/SnareIdle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/SnareIndicator.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/SnareIndicator.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tom1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Tom1.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tom1Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Tom1Idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tom1Indicator.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Tom1Indicator.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tom2.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Tom2.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tom2Idle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Tom2Idle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tom2Indicator.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Tom2Indicator.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Tombass.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Tombass.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/TombassIdle.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/TombassIdle.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/TombassIndicator.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/TombassIndicator.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/DrumHero.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DrumHero.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SoundPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SoundPlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MusicManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MusicManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +110,7 @@
       <updated>1645985631062</updated>
       <workItem from="1645985649207" duration="3699000" />
       <workItem from="1646073411155" duration="10672000" />
+      <workItem from="1646155836227" duration="3053000" />
     </task>
     <servers />
   </component>
