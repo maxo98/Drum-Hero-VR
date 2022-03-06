@@ -40,14 +40,15 @@ public class MusicManager : MonoBehaviour
             midiFilePlayer.MPTK_MidiIndex = 44;
             midiFilePlayer.MPTK_Play();
             _playing = true;
-            foreach (var soundPlayer in soundPlayers)
-            {
-                soundPlayer.playSounds = false;
-            }
+            //foreach (var soundPlayer in soundPlayers)
+            //{
+            //    soundPlayer.playSounds = false;
+            //}
         }
         else
         {
             midiFilePlayer.MPTK_Pause();
+            _playing = false;
         }
     }
 
