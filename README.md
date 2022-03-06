@@ -20,9 +20,9 @@ Un problème physique. Ne pas avoir de rebond quand on tape une cymbale ou un to
 on a pensé a plusieurs façon de le faire. 
 
  - avec des fichiers midi :
-    1- jouer un morceau et recuperer les evenements de la batterie pour les afficher en temps reel avec une animation.
+    - jouer un morceau et recuperer les evenements de la batterie pour les afficher en temps reel avec une animation.
     probleme : pas possible d'anticiper les coups.
-    2- Obtenir tout les evenements à l'avance et les jouer sur une timeline en parallèle avec le morceau pour avoir les coups en avance.
-    3- créer un editeur de piste pour pouvoir manuellement créer des pistes jouable. (necessitait de créer une deuxieme applications).
+    - Obtenir tout les evenements à l'avance et les jouer sur une timeline en parallèle avec le morceau pour avoir les coups en avance.
+    - créer un editeur de piste pour pouvoir manuellement créer des pistes jouable. (necessitait de créer une deuxieme applications).
     certainement la meilleur solution mais impossible a réalisé par manque de temps.
     on s'est rendu compte trop tard que la solution 1 etait pas terrible.
